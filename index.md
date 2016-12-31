@@ -1,12 +1,14 @@
 ## [SkylinkNet 2016.12.30](https://github.com/unknownmax/Android-APPs/releases/tag/SkylinkNet_APPs)
 
+
+```markdown
 ## 修改内容
-#### 1 扫描IPCAM二维码崩溃
-#### 2 修改Push Notification依赖“Skylink Hub Alert”问题
-#### 3 登陆时自动设置Push Notification语言
+#### 1扫描IPCAM二维码崩溃
+#### 2修改Push Notification依赖“Skylink Hub Alert”问题
+#### 3登陆时自动设置Push Notification语言
 #### 4 自动移除空格 (登陆Email. Reset Email. 创建新用户Email. HUB ID. CAM ID)
 #### 5 ADD CAM页面部分文字图片改回纯文字
-
+```
 
 
 
