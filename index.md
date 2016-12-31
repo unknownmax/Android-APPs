@@ -1,3 +1,5 @@
+
+----
 ## SkylinkNet 2016.12.30 [Download](https://github.com/unknownmax/Android-APPs/releases/tag/SkylinkNet_APPs)
 
 * 修改内容
@@ -7,6 +9,8 @@
     * 自动移除空格 (登陆Email. Reset Email. 创建新用户Email. HUB ID. CAM ID)
     * ADD CAM页面部分文字图片改回纯文字
 
+
+----
 
 ## PNI APP 2016.12.30 [Download](https://github.com/unknownmax/Android-APPs/releases/tag/PNI_APPs)
 
