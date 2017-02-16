@@ -1,4 +1,15 @@
 
+
+----
+
+## SkylinkNet 2017.02.16 [[Download]](https://github.com/unknownmax/Android-APPs/releases/download/SkylinkNet_2017-02-16/SkylinkNet.2017-02-16.apk)
+
+* 修改内容
+    * 使用新IPCAM SDK
+    * 兼容 VSTA
+
+
+
 ----
 
 ## SkylinkNet 2016.12.30 [[Download]](https://github.com/unknownmax/Android-APPs/releases/tag/SkylinkNet_APPs)
